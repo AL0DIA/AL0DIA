@@ -1,7 +1,10 @@
-### Hi there 👋
+![waddup](https://github.com/AL0DIA/AL0DIA/blob/master/AL0DIA-waddup.gif)
+
 
 <!--
 **AL0DIA/AL0DIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
