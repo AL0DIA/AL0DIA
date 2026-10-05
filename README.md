@@ -1,5 +1,7 @@
 ![waddup](https://github.com/AL0DIA/AL0DIA/blob/master/AL0DIA-waddup.gif)
 
+y u still here? i am at Codeberg, nothing 2 c here
+
 
 <!--
 **AL0DIA/AL0DIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
